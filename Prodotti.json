@@ -22,5 +22,11 @@
     "in_stock": false,
     "posizione": "6",
     "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  },
+    "lady presteril": {
+    "prezzo": "5.10",
+    "in_stock": false,
+    "posizione": "6",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   }
 }
