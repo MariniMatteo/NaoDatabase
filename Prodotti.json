@@ -1,0 +1,26 @@
+{
+  "aspirina": {
+    "prezzo": "3.27",
+    "in_stock": true,
+    "posizione": "4",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  },
+  "sciroppo": {
+    "prezzo": "4.20",
+    "in_stock": true,
+    "posizione": "2",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  },
+  "integratori": {
+    "prezzo": "2.56",
+    "in_stock": true,
+    "posizione": "1",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  },
+  "antidolorifici": {
+    "prezzo": "3.23",
+    "in_stock": false,
+    "posizione": "6",
+    "descrizione": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  }
+}
